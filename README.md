@@ -41,6 +41,7 @@ int main() {
 ```
 # Output:
 <img width="466" height="262" alt="Screenshot 2025-11-18 153424" src="https://github.com/user-attachments/assets/a74dc1c3-efef-453f-bc98-cc8a260c5326" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -82,6 +83,7 @@ int main() {
 ```
 # Output:
 <img width="406" height="225" alt="Screenshot 2025-11-18 153831" src="https://github.com/user-attachments/assets/c85550af-b15b-479a-b776-978de607af47" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -120,6 +122,7 @@ int main() {
 ```
 # Output:
 <img width="459" height="264" alt="Screenshot 2025-11-18 154055" src="https://github.com/user-attachments/assets/09a22050-98cf-44b5-b172-2c2cb21d3c0a" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
